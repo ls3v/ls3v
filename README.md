@@ -2,7 +2,7 @@
 - 👀 I’m interested in healthcare and automotive realted software.
 - 🌱 I’m currently learning HL7 FHIR and automotive infotainment.
 - 💞️ I’m looking to collaborate on what I am currently interested in.
-- 📫 How to reach me TBD
+- 📫 How to reach me ls3v.mail@gmail.com
 
 <!---
 ls3v/ls3v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
